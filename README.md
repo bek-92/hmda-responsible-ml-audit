@@ -19,7 +19,7 @@ May 2026
 | `LR Model for RML (1).ipynb` | Logistic Regression model, baseline performance, and fairness diagnostics |
 | `Gradient Boosting Model (2).ipynb` | Selected Gradient Boosting model, subgroup error analysis, robustness checks, and deployment evidence |
 | `Random_Forest_RML (2).ipynb` | Random Forest challenger model and comparison metrics |
-| `HMDA_Capstone_Group6.pptx` | Final capstone presentation summarizing the audit findings |
+| `HMDA_Capstone_Group6_Final.pptx` | Final capstone presentation summarizing the audit findings |
 
 ## Models Evaluated
 
